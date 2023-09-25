@@ -1,4 +1,10 @@
+import { people } from './data';
+import { useState } from 'react';
+
 const App = () => {
-  return <h2>Reviews Starter</h2>;
+    const [index, setIndex] = useState(0);
+    const { name, job, image, text } = people[index];
+    return <h2>{name}</h2>;
 };
+
 export default App;

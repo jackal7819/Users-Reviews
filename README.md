@@ -1,10 +1,10 @@
 ## Users Reviews
 
-The Reviews App is a React.js application that allows users to explore a list of reviews provided by customers. Users can cycle through the reviews, display random reviews, and view individual customer feedback.
+Users Reviews is a React.js application that allows users to explore a list of reviews provided by customers. Users can cycle through the reviews, display random reviews, and view individual customer feedback.
 
 ### Description
 
-The Reviews App provides a user-friendly interface to showcase customer reviews. It leverages React.js to create an interactive experience for users. The app loads a set of customer reviews from a data file and dynamically renders them. Users can navigate through the reviews, read individual feedback, and even view random reviews for a diverse perspective.
+Users Reviews provides a user-friendly interface to showcase customer reviews. It leverages React.js to create an interactive experience for users. The app loads a set of customer reviews from a data file and dynamically renders them. Users can navigate through the reviews, read individual feedback, and even view random reviews for a diverse perspective.
 
 The key features of the Reviews App include:
 
@@ -16,7 +16,7 @@ The key features of the Reviews App include:
 
 - **React Icons**: Stylish icons, like the beer icon, are incorporated into the user interface using the React Icons library.
 
-Visit the [Reviews App Website](https://www.example.com) to explore the app online.
+Visit the [Users Reviews Website](https://users-review.onrender.com) to explore the app online.
 
 ### Technologies Used
 
