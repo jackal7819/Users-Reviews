@@ -350,3 +350,13 @@ main {
 .next-btn:hover {
     color: var(--primary-500);
 }
+
+button:disabled {
+    color: #666;
+    cursor: not-allowed;
+}
+
+button:disabled:hover {
+    color: #666;
+    cursor: not-allowed;
+}
